@@ -1,6 +1,6 @@
 # MWE: Grizzly Server
 
-### Dependencies:
+### This project is based on:
 
 * [Maven] (http://maven.apache.org/)
 * [Grizzly] (http://grizzly.java.net/)
