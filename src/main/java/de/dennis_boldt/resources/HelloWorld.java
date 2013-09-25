@@ -10,8 +10,16 @@ public class HelloWorld {
 
 	@GET
 	@Produces("text/plain")
-	public Response getById() {
+	public Response getTextPlain() {
 		return Response.ok().entity("Hello World").build();
 	}
+
+	@GET
+	@Produces("text/html")
+	public Response getTextHtml() {
+		return Response.ok().entity("<strong>Hello World</strong>").build();
+	}
+
+
 
 }
