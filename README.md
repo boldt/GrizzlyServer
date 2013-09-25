@@ -2,8 +2,9 @@
 
 ### Dependencies:
 
-* Maven
-* Jersey 1.17.1
+* [Maven] (http://maven.apache.org/)
+* [Grizzly] (http://grizzly.java.net/)
+* [Jersey] (http://jersey.java.net/)
 
 ### Get it:
 
