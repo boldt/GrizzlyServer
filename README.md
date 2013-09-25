@@ -34,3 +34,5 @@ java -jar target/GrizzlyServer-0.0.1-SNAPSHOT.jar 12345
 ```
 curl -X GET http://localhost:12345/helloworld
 ```
+
+or use my [MWE-JerseyClient](git@github.com:boldt/JerseyClient.git)
